@@ -1,10 +1,10 @@
-# eda-repo-5
-EDA 프로젝트 5조 저장소. 로봇 취업시장의 미래
-# Introduction
----
-# Responsibility
-* **윤민섭**
-(팀장)
+# EDA 프로젝트 5조 : 로봇 취업시장의 미래 (Team Vector)
+
+# 1. Introduction
+-
+
+# 2. Responsibility
+* **윤민섭** (팀장)
     * KOSIS 통계자료 수집 및 시각화
     * 스펙 입력시 기업 추천 및 시각화
     * 데이터 분석
@@ -19,5 +19,12 @@ EDA 프로젝트 5조 저장소. 로봇 취업시장의 미래
 * **조성현**
     * 잡코리아 공고 웹크롤링
     * 데이터 분석
----
-# 
+
+
+# 3. Project Schedule
+
+# 4. Data collection
+
+# 5. Exploratory Data Analysis (EDA)
+
+# 6. Review
