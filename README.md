@@ -62,29 +62,59 @@
 ![image](https://github.com/user-attachments/assets/fe7282ce-0947-41f6-9bf3-678792b998e0)
 
 # 5. Exploratory Data Analysis (EDA)
-### 전체 공고문에서 가장 많이 언급된 키워드
+* ## 5-1. 전체 공고문에서 가장 많이 언급된 키워드는 무엇일까?
+* ## 5-2. 기업형태별로 어떤 역량을 요구할까?
+* ## 5-3. 어느 업종이 유망할까?
+* ## 5-4. 내 역량을 많이 언급한 기업을 알아보자.
+  ---
+
+## 5-1. 전체 공고문에서 가장 많이 언급된 키워드는 무엇일까?
 ![image](https://github.com/user-attachments/assets/1d935a19-d780-4446-a234-f98d1d0fc230)
 
-###  'C언어'가 가장 높게 집계된 이유
-#### 대부분의 공고문에서 'C/C++' 'C, C++'처럼 표기해놓기 때문이다.
+* ###  여기서 잠깐! 'C언어'가 가장 높게 집계된 이유
+#### 대부분의 공고문에서 'C/C++' 'C, C++'처럼 표기해놓기 때문입니다.
 ![image](https://github.com/user-attachments/assets/2439e063-0ff6-493f-a32b-1c210acf7d9d)
-###  중소기업(~4천만원)
+
+## 5-2. 기업형태별로 어떤 역량을 요구할까?
+#### 중소기업, 중견기업, 대기업 별로 무슨 역량이 중요하게 여겨지는지 분석해보았습니다.
+#### 중소기업은 수가 많은 관계로 그 안에서 연봉으로 세분화하였습니다.  
+* ###  1. 중소기업(~4천만원)
 ![image](https://github.com/user-attachments/assets/4ca3cec4-2cf6-4c9f-b0fc-eeaf46898ae7)
-###  중소기업(4~7천만원)
+* ###  2. 중소기업(4~7천만원)
 ![image](https://github.com/user-attachments/assets/12aa70c4-b1c4-47e3-900a-1b31f4b898b5)
-###  중소기업(7~9천만원)
+* ###  3. 중소기업(7~9천만원)
 ![image](https://github.com/user-attachments/assets/989c6d50-f729-4a59-a72b-0943ab10ef5b)
-###  중견기업
+* ###  4. 중견기업
 ![image](https://github.com/user-attachments/assets/fea96d91-679d-48c9-bb3e-73ab656c284b)
-###  대기업
+* ###  5. 대기업
 ![image](https://github.com/user-attachments/assets/eea92178-825a-455a-8416-f9e53d1979ec)
 
-#### 중소기업은 왜 
+### **분석 결과**
+#### 고연봉 대기업에서 파이썬보다 C / C++의 수요가 높습니다.
 
-<pre><code>
+1. 중소기업 (평균연봉 7천 이하) : C++, C, Python에 대한 평균연봉은 큰 차이가 없습니다.
 
+2. 중견기업, 중소기업 (평균연봉 7~9천이하) : C#, C++, C 언어에 대한 평균연봉이 일정수준 상승함을 
+확인할 수 있습니다.
+ 
+3. 대기업 : C++, C 언어에 대한 평균연봉이 Python, SQL에 비해 월등히 높음을 확인할 수 있습니다.
 
-</code></pre>
+**로봇 현업에 종사하면서 자신의 연봉을 꾸준히 올리고 싶다면 C++, C가 필수입니다.**
+  
+## 5-3. 어느 업종이 유망할까?
+![image](https://github.com/user-attachments/assets/48cb9e8c-ec49-42ea-b546-ebd26cbea9af)
+21~23년도 업종별 매출액을 기준으로 '매출액 상승폭'과 '매출액 평균'을 구하여 가장 높은 수치를 기록한 다섯 개의 업종을 조회했습니다.  
+'기타 엔지니어링 서비스업'이 '매출액 상승폭'과 '매출액 평균'에서 모두 높은 수치를 기록하였으며,  
+이는 최근 수요의 증가, 성장 가능성, 그리고 안정성이 다른 업종에 비해 상대적으로 크다는 것을 의미합니다.  
+'기타 엔지니어링 서비스업'에 포함되는 주요 키워드는 '자동화'입니다.  
+따라서 '자동화'와 관련된 업종이 유망할 것으로 보입니다.
+
+## 5-4. 내 역량을 많이 언급한 기업을 알아보자.
+![image](https://github.com/user-attachments/assets/97c15da2-d078-4b78-a0ee-9f015f77ff8a)
+
+![image](https://github.com/user-attachments/assets/ebbaf156-d155-4b15-863e-d6497735e9a4)
+제 역량인 'C, C++, Python, MySQL'을 가장 많이 언급한 회사는 위와 같습니다.
+
 
 # 6. Review
 * **윤민섭** (팀장)
