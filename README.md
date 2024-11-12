@@ -30,6 +30,29 @@
 # 4. Data collection
 
 # 5. Exploratory Data Analysis (EDA)
+### 전체 공고문에서 가장 많이 언급된 키워드
+![image](https://github.com/user-attachments/assets/1d935a19-d780-4446-a234-f98d1d0fc230)
+
+###  'C언어'가 가장 높게 집계된 이유
+#### 대부분의 공고문에서 'C/C++' 'C, C++'처럼 표기해놓기 때문이다.
+![image](https://github.com/user-attachments/assets/2439e063-0ff6-493f-a32b-1c210acf7d9d)
+###  중소기업(~4천만원)
+![image](https://github.com/user-attachments/assets/4ca3cec4-2cf6-4c9f-b0fc-eeaf46898ae7)
+###  중소기업(4~7천만원)
+![image](https://github.com/user-attachments/assets/12aa70c4-b1c4-47e3-900a-1b31f4b898b5)
+###  중소기업(7~9천만원)
+![image](https://github.com/user-attachments/assets/989c6d50-f729-4a59-a72b-0943ab10ef5b)
+###  중견기업
+![image](https://github.com/user-attachments/assets/fea96d91-679d-48c9-bb3e-73ab656c284b)
+###  대기업
+![image](https://github.com/user-attachments/assets/eea92178-825a-455a-8416-f9e53d1979ec)
+
+#### 중소기업은 왜 
+
+<pre><code>
+
+
+</code></pre>
 
 # 6. Review
 * **윤민섭** (팀장)
