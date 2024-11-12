@@ -94,7 +94,7 @@
 
 
 # Project Schedule
-![image](https://github.com/user-attachments/assets/14364e05-bf30-42ea-9260-da3c82e7ccba)
+![jira_1](https://github.com/user-attachments/assets/893c888b-2bb1-4d3c-a468-eaa27d1755e6)
 * Jira를 활용하여 각자 개인이 맡은 작업 일정을 확인하고, 수정 사항 또한 실시간으로 확인하여 유연한 팀프로젝트를 진행하였습니다.
 
 * 프로젝트 스케줄은 크게 "주제 선정", "데이터 조사", "데이터 수집 및 관리", "데이터 분석 및 시각화", "발표 자료 작성"으로 구성하였으며, 앞서 끝나야지만 다음 작업이 가능한 부분까지 스케줄을 점검하여 프로젝트의 속도를 붙이게끔 스케줄을 작성하였습니다.
