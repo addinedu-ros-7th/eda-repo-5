@@ -5,10 +5,21 @@
    * 앞으로 로봇 분야에 취업하기 위해 어떤 역량이 필요할까?
      
 * 주제 배경
-   * 로봇공학은 자동화, 인공지능, 스마트 기술의 발달과 함께 주목받는 분야 중 하나입니다. 다양한 산업에서 로봇 기술의 적용이 점차 증가하고 있어, 해당 분야의 취업 시장도 빠르게 성장하고 있습니다. 이러한 시장에서 경쟁력을 갖추기 위해, 필요한 역량을 이해하고 준비하는 것이 중요하기 때문에 로봇 취업 시장에 필요 역량을 조사하고 분석하여 저희와 같은 관련 분야 취업자에게 도움을 주고자 프로젝트를 시작하게 되었습니다. 
+   * 로봇공학은 자동화, 인공지능, 스마트 기술의 발달과 함께 주목받는 분야 중 하나입니다. 다양한 산업에서 로봇 기술의 적용이 점차 증가하고 있어, 해당 분야의 취업 시장도 빠르게 성장하고 있습니다. 이러한 시장에서 경쟁력을 갖추기 위해, 필요한 역량을 이해하고 준비하는 것이 중요하기 때문에 로봇 취업 시장에 필요 역량을 조사하고 분석하여 저희와 같은 관련 분야 취업자에게 도움을 주고자 프로젝트를 시작하게 되었습니다.
+
+* 사용 언어
+
+     <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/jupyter/notebook/blob/main/docs/source/_static/jupyter_logo.svg" alt="jupyter" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+<a href="https://numpy.org//" target=" " rel="noreferrer"> <img src="https://github.com/numpy/numpy/blob/main/doc/source/_static/favicon/apple-touch-icon.png" alt="numpy" width="38" height="38"/> </a>
+<a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc/#" target="_blank" rel="noreferrer"> <img src="https://funthon.wordpress.com/wp-content/uploads/2017/05/bs.png?w=772" alt="BeautifulSoup" width="72" height="36"/> </a>
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1200px-Selenium_Logo.png" alt="selenium" width="36" height="36"/> </a>
+
 
 # 2. Responsibility
-* **윤민섭** (팀장)
+### **윤민섭** (팀장)
     * KOSIS 통계자료 수집 및 시각화
     * 스펙 입력시 기업 추천 및 시각화
     * 데이터 분석
@@ -30,6 +41,7 @@
 * Jira를 활용하여 각자 개인이 맡은 작업 일정을 확인하고, 수정 사항 또한 실시간으로 확인하여 유연한 팀프로젝트를 진행하였습니다.
 
 * 프로젝트 스케줄은 크게 "주제 선정", "데이터 조사", "데이터 수집 및 관리", "데이터 분석 및 시각화", "발표 자료 작성"으로 구성하였으며, 앞서 끝나야지만 다음 작업이 가능한 부분까지 스케줄을 점검하여 프로젝트의 속도를 붙이게끔 스케줄을 작성하였습니다.
+* [ https://roastbean.atlassian.net/jira/software/projects/KAN/boards/1/timeline ]
 
 # 4. Data collection
 
