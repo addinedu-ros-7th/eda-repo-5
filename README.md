@@ -1,11 +1,21 @@
 # EDA 프로젝트 5조 : 로봇 취업시장의 미래 (Team Vector)
 
-# Introduction
+## Introduction
 
-|  |내용|
-|:---:|---|
-| 주제 |앞으로 로봇 시장에 취업하기 위해서 어떤 역량이 필요할까?|
-| 배경 | 로봇공학은 자동화, 인공지능, 스마트 기술의 발달과 함께 주목받는 분야 중 <br> 하나입니다. 다양한 산업에서 로봇 기술의 적용이 점차 증가하고 있어, 해당 분야의 취업 시장도 빠르게 성장하고 있습니다. <br> 이러한 시장에서 경쟁력을 갖추기 위해, 필요한 역량을 이해하고 준비하는 것이 <br> 중요하기 때문에 로봇 취업 시장에 필요 역량을 조사하고 분석하여 저희와 같은 <br> 관련 분야 취업자에게 도움을 주고자 프로젝트를 시작하게 되었습니다. |
+### 주제
+| 주제 | 앞으로 로봇 시장에 취업하기 위해서 어떤 역량이 필요할까? |
+|:---|:---|
+| 배경 | 로봇공학은 자동화, 인공지능, 스마트 기술의 발달과 함께 주목받는 분야 중 하나입니다. 다양한 산업에서 로봇 기술의 적용이 점차 증가하고 있어, 해당 분야의 취업 시장도 빠르게 성장하고 있습니다. 이러한 시장에서 경쟁력을 갖추기 위해, 필요한 역량을 이해하고 준비하는 것이 중요하기 때문에 로봇 취업 시장에 필요 역량을 조사하고 분석하여 저희와 같은 관련 분야 취업자에게 도움을 주고자 프로젝트를 시작하게 되었습니다. |
+
+
+### 기술 스택
+|분류|기술|
+|---|---|
+|개발환경|<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white"/>|
+|언어|<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white"/>|
+|웹스크롤링|<img src="https://img.Shields.io/badge/selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>|
+|데이터베이스|<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>|
+|협업 툴|<img src="https://img.shields.io/badge/confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/> <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/> |
 
 
 # Responsibility
